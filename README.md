@@ -1,1 +1,1 @@
-create a Price card  using react como and prop only and adding css for styling
+create a Price card  using react comp and prop only and adding css for styling
